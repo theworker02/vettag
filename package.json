@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/vettag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vet host/tag network string helpers for config audits.",
+  "bin": {
+    "vettag": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/vettag.git"
+  },
+  "homepage": "https://theworker02.github.io/vettag/",
+  "keywords": [
+    "vet",
+    "tag",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
